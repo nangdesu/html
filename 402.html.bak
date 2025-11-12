@@ -2,14 +2,14 @@
 
 <html lang="en-us">
 <head>
-<base href="https://cdn.jsdelivr.net/gh/genizy/brainrot@main/office-fight/">
+<base href="./assets/genizy_brainrot/main/office-fight/">
 <meta charset="utf-8"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <title>Unity WebGL Player | Funny Puzzles</title>
 <link rel="shortcut icon" href="TemplateData/favicon.ico"/>
 <link rel="stylesheet" href="TemplateData/style.css"/>
 <!-- Yandex Games SDK -->
-<script src="https://cdn.jsdelivr.net/gh/gn-math/assets@main/yandex-sdk.js?lol"></script>
+<script src="./assets/gn-math_assets/main/yandex-sdk.js?lol"></script>
 </head>
 <body>
 <div id="unity-container" style="position: absolute; width: 100%; height: 100%; left: 0%; top: 0%;">
